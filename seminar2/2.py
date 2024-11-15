@@ -28,17 +28,20 @@ def get_soup(html):
 
 
 def get_data(soup):
-    features = soup.find('div', 'col-sm-6 product_main')
-    name = features.find('h1').text if features.find('h1') else None
-    price = float(features.find('p', 'price_color').text[1:]) if features.find('p', 'price_color') else None
-    in_stock = int(
-        ''.join(filter(str.isdigit, features.find('p', 'instock availability').text))) if features.find('p',
-                                                                                                        'instock availability') else None
-    rating = ratings.get(soup.find('p', class_='star-rating').get('class')[1]) if soup.find('p',
-                                                                                         class_='star-rating') else None
-    description = soup.find('div', id='product_description').find_next('p').text if soup.find('div', id='product_description') and soup.find('div', id='product_description').find_next('p') else None
-    return name, price, rating, in_stock, description
-
+    try:
+        features = soup.find('div', 'col-sm-6 product_main')
+        name = features.find('h1').text if features.find('h1') else None
+        price = float(features.find('p', 'price_color').text[1:]) if features.find('p', 'price_color') else None
+        in_stock = int(
+            ''.join(filter(str.isdigit, features.find('p', 'instock availability').text))) if features.find('p',
+                                                                                                            'instock availability') else None
+        rating = ratings.get(soup.find('p', class_='star-rating').get('class')[1]) if soup.find('p',
+                                                                                             class_='star-rating') else None
+        description = soup.find('div', id='product_description').find_next('p').text if soup.find('div', id='product_description') and soup.find('div', id='product_description').find_next('p') else None
+        return name, price, rating, in_stock, description
+    except Exception as e:
+        print(f"Ошибка при извлечении данных: {e}")
+        return None, None, None, None, None
 
 def res_json_append(data):
     result_json.append({'Name': data[0],
@@ -50,6 +53,9 @@ def res_json_append(data):
 
 with requests.Session() as session:
     source_page = get_soup('http://books.toscrape.com/')
+    if not source_page:
+        print("Не удалось загрузить основную страницу.")
+        exit()
     relative_links_categories = [el.get('href') for el in source_page.find('div', 'side_categories').find_all('a')]
     for relative_link in tqdm(relative_links_categories[1:], desc="ЗАГРУЖЕНО КАТЕГОРИЙ"):
         full_link_category = urljoin(base_url, relative_link)
