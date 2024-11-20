@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ff224d4-8de1-4829-b08f-ea6df71422f5" name="Changes" comment="seminar_2.1">
-      <change afterPath="$PROJECT_DIR$/seminar3/my_books.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar3/seminar3.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar3/seminar3.py" afterDir="false" />
+    <list default="true" id="9ff224d4-8de1-4829-b08f-ea6df71422f5" name="Changes" comment="seminar_3">
+      <change afterPath="$PROJECT_DIR$/seminar4/seminar4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +64,9 @@
     "Python.2.executor": "Run",
     "Python.seminar3.2.executor": "Run",
     "Python.seminar3.executor": "Run",
+    "Python.seminar4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "seminar__3__class",
+    "git-widget-placeholder": "#3 on seminar__3__class",
     "last_opened_file_path": "D:/studies/data_collection/pythonProject/seminar3"
   }
 }]]></component>
@@ -76,7 +75,7 @@
       <recent name="D:\studies\data_collection\pythonProject\seminar3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.seminar3.2">
+  <component name="RunManager" selected="Python.seminar4">
     <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -143,8 +142,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="seminar4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminar4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminar4/seminar4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.seminar4" />
         <item itemvalue="Python.seminar3.2" />
         <item itemvalue="Python.seminar3" />
         <item itemvalue="Python.2" />
@@ -215,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731690884843</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="seminar_3">
+      <option name="closed" value="true" />
+      <created>1731961944868</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731961944868</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,6 +254,7 @@
     <MESSAGE value="seminar_!" />
     <MESSAGE value="seminar_2" />
     <MESSAGE value="seminar_2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="seminar_2.1" />
+    <MESSAGE value="seminar_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="seminar_3" />
   </component>
 </project>
