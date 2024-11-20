@@ -1,0 +1,1311 @@
+[{
+  "_id": {
+    "$oid": "673e151a3402ab02dbf64c31"
+  },
+  "name": "Python разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109114146?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e151a3402ab02dbf64c32"
+  },
+  "name": "Python разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109114171?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e151b3402ab02dbf64c33"
+  },
+  "name": "QA Automation Python",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111444578?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e151c3402ab02dbf64c34"
+  },
+  "name": "Python-разработчик",
+  "salary": [
+    "от",
+    200000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110126502?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e151d3402ab02dbf64c35"
+  },
+  "name": "Python-разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/94747210?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e151e3402ab02dbf64c36"
+  },
+  "name": "Python разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111425993?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e151e3402ab02dbf64c37"
+  },
+  "name": "Python-разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111431128?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e151f3402ab02dbf64c38"
+  },
+  "name": "Python-разработчик",
+  "salary": [
+    "от",
+    140000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110645606?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e151f3402ab02dbf64c39"
+  },
+  "name": "Python-разработчик",
+  "salary": [
+    "от",
+    180000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110429622?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15203402ab02dbf64c3a"
+  },
+  "name": "Python-разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111439201?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15213402ab02dbf64c3b"
+  },
+  "name": "Python developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111443466?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15223402ab02dbf64c3c"
+  },
+  "name": "Python developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111443989?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15233402ab02dbf64c3d"
+  },
+  "name": "Python-разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111445558?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15233402ab02dbf64c3e"
+  },
+  "name": "Back End разработчика (Python/Django)",
+  "salary": [
+    "от",
+    20000000,
+    null,
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/111030132?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15243402ab02dbf64c3f"
+  },
+  "name": "Python Developer (Strong Middle)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111103378?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15243402ab02dbf64c40"
+  },
+  "name": "Middle Python разработчик",
+  "salary": [
+    "от",
+    70000,
+    "до",
+    100000,
+    "руб",
+    "до вычета налогов"
+  ],
+  "url": "https://hh.ru/vacancy/111397821?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15253402ab02dbf64c41"
+  },
+  "name": "Junior Python Backend Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109066452?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15263402ab02dbf64c42"
+  },
+  "name": "Senior Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109070335?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15273402ab02dbf64c43"
+  },
+  "name": "Middle Python-разработчик (Django)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/110428531?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15273402ab02dbf64c44"
+  },
+  "name": "Middle Python разработчик",
+  "salary": [
+    "от",
+    100000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110956175?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15273402ab02dbf64c45"
+  },
+  "name": "DevOps инженер",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111256455?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=773855&utm_local_campaign=1184546&utm_content=813596&utm_vacancy=111256455"
+},
+{
+  "_id": {
+    "$oid": "673e15283402ab02dbf64c46"
+  },
+  "name": "Ведущий Python Разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/108951727?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15283402ab02dbf64c47"
+  },
+  "name": "Lead Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111402608?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15283402ab02dbf64c48"
+  },
+  "name": "Data Engineer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111209557?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=773410&utm_local_campaign=1184005&utm_content=813130&utm_vacancy=111209557"
+},
+{
+  "_id": {
+    "$oid": "673e15293402ab02dbf64c49"
+  },
+  "name": "Программист Python(Django)",
+  "salary": [
+    "до",
+    150000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/111403400?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e152a3402ab02dbf64c4a"
+  },
+  "name": "QA Аutomation Engineer (Python)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/106205493?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e152a3402ab02dbf64c4b"
+  },
+  "name": "Преподаватель (педагог) программирования для детей Scratch, Roblox, Python, HTML/CSS/JS",
+  "salary": [
+    "от",
+    42000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110797843?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=774272&utm_local_campaign=1185018&utm_content=814014&utm_vacancy=110797843"
+},
+{
+  "_id": {
+    "$oid": "673e152a3402ab02dbf64c4c"
+  },
+  "name": "QA Аutomation Engineer (Python)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/106205492?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e152b3402ab02dbf64c4d"
+  },
+  "name": "Педагог дополнительного образования в г. Салехард, офлайн(Python, Unity, Графический дизайн)",
+  "salary": [
+    "от",
+    1500,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110522197?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=762861&utm_local_campaign=1171580&utm_content=802428&utm_vacancy=110522197"
+},
+{
+  "_id": {
+    "$oid": "673e152b3402ab02dbf64c4e"
+  },
+  "name": "Tech Lead (python)",
+  "salary": [
+    "от",
+    250000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/109638533?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e152c3402ab02dbf64c4f"
+  },
+  "name": "Senior Python developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/110962110?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e152d3402ab02dbf64c50"
+  },
+  "name": "Teamlead python разработки",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109557089?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e152e3402ab02dbf64c51"
+  },
+  "name": "Team Lead Python",
+  "salary": [
+    "от",
+    350000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110633560?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e152e3402ab02dbf64c52"
+  },
+  "name": "Junior Python разработчик (удаленно)",
+  "salary": [
+    "до",
+    100000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/107956470?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e152f3402ab02dbf64c53"
+  },
+  "name": "Разработчик (Python/JavaScript)",
+  "salary": [
+    "до",
+    150000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/109658561?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e152f3402ab02dbf64c54"
+  },
+  "name": "Python-разработчик",
+  "salary": [
+    "от",
+    150000,
+    "до",
+    150000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/109917853?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15313402ab02dbf64c55"
+  },
+  "name": "Лектор по Python",
+  "salary": [
+    "от",
+    500000,
+    "до",
+    700000,
+    null,
+    "до вычета налогов"
+  ],
+  "url": "https://hh.ru/vacancy/111226195?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15323402ab02dbf64c56"
+  },
+  "name": "Разработчик (Backend developer / Python)",
+  "salary": [
+    "от",
+    120000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/108921516?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15333402ab02dbf64c57"
+  },
+  "name": "Эксперт в сфере «Программирование на Python»",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111426519?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15333402ab02dbf64c58"
+  },
+  "name": "Python-разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/108374094?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15343402ab02dbf64c59"
+  },
+  "name": "Python-разработчик (middle), гибрид в Санкт-Петербурге",
+  "salary": [
+    "от",
+    170000,
+    "до",
+    220000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110635717?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15353402ab02dbf64c5a"
+  },
+  "name": "Python-разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109045918?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15353402ab02dbf64c5b"
+  },
+  "name": "Python-разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111351589?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15363402ab02dbf64c5c"
+  },
+  "name": "Техлид разработки Go и Python",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111412287?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15363402ab02dbf64c5d"
+  },
+  "name": "Middle+/Senior Python Developer (Новосибирск)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111412583?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15373402ab02dbf64c5e"
+  },
+  "name": "Senior Python разработчик (Intelligent Document Processing)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109147691?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15383402ab02dbf64c5f"
+  },
+  "name": "Middle python-разработчик (краудсорсинговая платформа TagMe)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109147901?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15383402ab02dbf64c60"
+  },
+  "name": "Senior Software Development Engineer (C#/Python/AWS)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/110671278?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15393402ab02dbf64c61"
+  },
+  "name": "Ведущий бэкенд-разработчик Python / Backend Python Developer (Senior)",
+  "salary": [
+    "от",
+    280000,
+    "до",
+    320000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/111387955?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e153a3402ab02dbf64c62"
+  },
+  "name": "Python-разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111353360?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e153b3402ab02dbf64c63"
+  },
+  "name": "Python Developer (ML team)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/108106294?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e153b3402ab02dbf64c64"
+  },
+  "name": "Ведущий разработчик Python, Направление базовой инфраструктуры",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/107013733?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e153c3402ab02dbf64c65"
+  },
+  "name": "Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/106523905?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e153d3402ab02dbf64c66"
+  },
+  "name": "Разработчик бэкенда на Python и Go в Вертикали",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/92475707?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e153d3402ab02dbf64c67"
+  },
+  "name": "Разработчик бэкенда на Python и Go в Вертикали",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/92475708?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e153e3402ab02dbf64c68"
+  },
+  "name": "Python-разработчик (middle)",
+  "salary": [
+    "от",
+    120000,
+    "до",
+    200000,
+    "руб",
+    "до вычета налогов"
+  ],
+  "url": "https://hh.ru/vacancy/111352167?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e153e3402ab02dbf64c69"
+  },
+  "name": "Преподаватель образовательных курсов для детей (Python)",
+  "salary": [
+    "до",
+    70000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/90381615?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e153f3402ab02dbf64c6a"
+  },
+  "name": "Преподаватель образовательных курсов для детей (Python)",
+  "salary": [
+    "до",
+    70000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/90381614?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e153f3402ab02dbf64c6b"
+  },
+  "name": "Преподаватель математики, информатики или физики (дистанционно)",
+  "salary": [
+    "от",
+    45000,
+    "до",
+    55000,
+    "руб",
+    "до вычета налогов"
+  ],
+  "url": "https://hh.ru/vacancy/110912871?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=769174&utm_local_campaign=1178929&utm_content=808813&utm_vacancy=110912871"
+},
+{
+  "_id": {
+    "$oid": "673e153f3402ab02dbf64c6c"
+  },
+  "name": "Преподаватель образовательных курсов для детей (Python)",
+  "salary": [
+    "от",
+    45000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/107226351?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15403402ab02dbf64c6d"
+  },
+  "name": "Репетитор по программированию (ночной график по Москве)",
+  "salary": [
+    "от",
+    75000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110958617?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=769858&utm_local_campaign=1179728&utm_content=809514&utm_vacancy=110958617"
+},
+{
+  "_id": {
+    "$oid": "673e15403402ab02dbf64c6e"
+  },
+  "name": "Преподаватель образовательных курсов для детей (Python)",
+  "salary": [
+    "до",
+    70000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/92908788?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15413402ab02dbf64c6f"
+  },
+  "name": "Преподаватель образовательных курсов для детей (Python)",
+  "salary": [
+    "до",
+    70000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110957505?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15413402ab02dbf64c70"
+  },
+  "name": "Senior Python developer",
+  "salary": [
+    "от",
+    240000,
+    "до",
+    315000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110070729?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15423402ab02dbf64c71"
+  },
+  "name": "Fullstack Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/108699316?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15433402ab02dbf64c72"
+  },
+  "name": "Lead full stack Developer (Python + JS)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109215130?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15433402ab02dbf64c73"
+  },
+  "name": "Backend программист Python/Django в веб-студию",
+  "salary": [
+    "от",
+    50000,
+    "до",
+    90000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/109946714?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15443402ab02dbf64c74"
+  },
+  "name": "Ментор на курс “Middle Python-разработчик”",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/110652059?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15443402ab02dbf64c75"
+  },
+  "name": "Программист Python",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/107853256?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15453402ab02dbf64c76"
+  },
+  "name": "Backend Developer (Python)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111355739?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15453402ab02dbf64c77"
+  },
+  "name": "Разработчик Python (Django, DRF; ПРОЕКТ до 3х месяцев)",
+  "salary": [
+    "от",
+    150000,
+    "до",
+    220000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/111438330?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15463402ab02dbf64c78"
+  },
+  "name": "Python разработчик/developer в IT-банк",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111392515?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15473402ab02dbf64c79"
+  },
+  "name": "Программист Python",
+  "salary": [
+    "от",
+    80000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/108780215?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15483402ab02dbf64c7a"
+  },
+  "name": "Стажер Python Back-end (офис)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111423729?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15493402ab02dbf64c7b"
+  },
+  "name": "Программист Python",
+  "salary": [
+    "от",
+    200000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110916753?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e154a3402ab02dbf64c7c"
+  },
+  "name": "Python developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111260985?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e154b3402ab02dbf64c7d"
+  },
+  "name": "Fullstack developer (Python)",
+  "salary": [
+    "от",
+    200000,
+    "до",
+    350000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/109104800?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e154b3402ab02dbf64c7e"
+  },
+  "name": "Team Lead (Python)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109223292?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e154c3402ab02dbf64c7f"
+  },
+  "name": "TeamLead (Python)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109484848?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e154c3402ab02dbf64c80"
+  },
+  "name": "Старший специалист по тестированию (Python), Логистика, Core ПВЗ 2",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/108933862?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e154d3402ab02dbf64c81"
+  },
+  "name": "Старший специалист по тестированию (Python), Логистика, Core ПВЗ 2",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/108933914?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e154e3402ab02dbf64c82"
+  },
+  "name": "Разработчик С++/Python/CV",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111348612?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e154e3402ab02dbf64c83"
+  },
+  "name": "Lead Python Developer (Офис)",
+  "salary": [
+    "до",
+    230000,
+    "руб",
+    "до вычета налогов"
+  ],
+  "url": "https://hh.ru/vacancy/105710178?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15503402ab02dbf64c84"
+  },
+  "name": "Middle Python-разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/108711447?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15503402ab02dbf64c85"
+  },
+  "name": "Backend-тестировщик-программист (Python)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/91325955?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15513402ab02dbf64c86"
+  },
+  "name": "Python Developer (Fullstack)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109120108?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15513402ab02dbf64c87"
+  },
+  "name": "Python developer (Senior)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111300807?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15523402ab02dbf64c88"
+  },
+  "name": "Junior Backend Developer (Python)",
+  "salary": [
+    "от",
+    70000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/111351666?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15533402ab02dbf64c89"
+  },
+  "name": "Middle+/Senior Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/107492353?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15543402ab02dbf64c8a"
+  },
+  "name": "Senior Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/98305160?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15553402ab02dbf64c8b"
+  },
+  "name": "Senior Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/98305572?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15553402ab02dbf64c8c"
+  },
+  "name": "Python developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109275047?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15553402ab02dbf64c8d"
+  },
+  "name": "Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111205936?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15563402ab02dbf64c8e"
+  },
+  "name": "Python Teacher",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109435357?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15573402ab02dbf64c8f"
+  },
+  "name": "Разработчик Python",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/103201543?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15573402ab02dbf64c90"
+  },
+  "name": "Системный администратор / Devops",
+  "salary": [
+    "от",
+    200000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/110338805?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=760857&utm_local_campaign=1169236&utm_content=800386&utm_vacancy=110338805"
+},
+{
+  "_id": {
+    "$oid": "673e15583402ab02dbf64c91"
+  },
+  "name": "Python разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111207454?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15583402ab02dbf64c92"
+  },
+  "name": "Python developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111206463?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15583402ab02dbf64c93"
+  },
+  "name": "Инженер-схемотехник",
+  "salary": [
+    "от",
+    40000,
+    "до",
+    100000,
+    "руб",
+    "до вычета налогов"
+  ],
+  "url": "https://hh.ru/vacancy/110535162?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=774287&utm_local_campaign=1185033&utm_content=814029&utm_vacancy=110535162"
+},
+{
+  "_id": {
+    "$oid": "673e15593402ab02dbf64c94"
+  },
+  "name": "Middle back-end разработчик (Python)",
+  "salary": [
+    "до",
+    200000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/111116112?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e155a3402ab02dbf64c95"
+  },
+  "name": "Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/108461049?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e155a3402ab02dbf64c96"
+  },
+  "name": "SRE-инженер",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/110745715?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=775093&utm_local_campaign=1185977&utm_content=814856&utm_vacancy=110745715"
+},
+{
+  "_id": {
+    "$oid": "673e155b3402ab02dbf64c97"
+  },
+  "name": "QA automation engineer (Python)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/108965716?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e155b3402ab02dbf64c98"
+  },
+  "name": "Python Backend Developer (Flask/Django)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109564997?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15673402ab02dbf64c99"
+  },
+  "name": "Team Lead разработки (Python 3.11)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111288098?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15673402ab02dbf64c9a"
+  },
+  "name": "Python разработчик (офис)",
+  "salary": [
+    "от",
+    80000,
+    "до",
+    90000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/111058621?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15683402ab02dbf64c9b"
+  },
+  "name": "Python разработчик (senior)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/110250462?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15683402ab02dbf64c9c"
+  },
+  "name": "Software Engineer (Python)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111239308?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15693402ab02dbf64c9d"
+  },
+  "name": "Backend-разработчик (Python)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/105460325?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e156a3402ab02dbf64c9e"
+  },
+  "name": "Разработчик Backend Python Developer Middle+",
+  "salary": [
+    "от",
+    180000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/111291690?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e156a3402ab02dbf64c9f"
+  },
+  "name": "Python/Django разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/109071677?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e156b3402ab02dbf64ca0"
+  },
+  "name": "Python веб-разработчик",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111245577?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e156c3402ab02dbf64ca1"
+  },
+  "name": "Middle Python developer",
+  "salary": [
+    "от",
+    120000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/111250660?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e156c3402ab02dbf64ca2"
+  },
+  "name": "Senior Python developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111250547?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e156d3402ab02dbf64ca3"
+  },
+  "name": "Программист Python Middle",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111249834?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e156d3402ab02dbf64ca4"
+  },
+  "name": "Python Developer (Middle+)",
+  "salary": [
+    "от",
+    140000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/109304173?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e156e3402ab02dbf64ca5"
+  },
+  "name": "Django Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111252525?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e156f3402ab02dbf64ca6"
+  },
+  "name": "Разработчик Python под Linux (senior)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/92202389?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e156f3402ab02dbf64ca7"
+  },
+  "name": "Python developer (Senior)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/110810130?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15703402ab02dbf64ca8"
+  },
+  "name": "Middle Python backend developer (FastAPI)",
+  "salary": [
+    "до",
+    180000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/109124550?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15703402ab02dbf64ca9"
+  },
+  "name": "Маркетинговый аналитик (Python, SQL)",
+  "salary": [
+    "от",
+    130000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/109306010?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15713402ab02dbf64caa"
+  },
+  "name": "Web Backend Developer (Python)",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/110262015?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15723402ab02dbf64cab"
+  },
+  "name": "Middle/Senior Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/110262084?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15723402ab02dbf64cac"
+  },
+  "name": "Python-разработчик / Middle+",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/111191821?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15733402ab02dbf64cad"
+  },
+  "name": "Python Developer",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/103084917?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15733402ab02dbf64cae"
+  },
+  "name": "Архитектор/TechLead DWH",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/110092283?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=759428&utm_local_campaign=1167606&utm_content=798935&utm_vacancy=110092283"
+},
+{
+  "_id": {
+    "$oid": "673e15733402ab02dbf64caf"
+  },
+  "name": "Разработчик оптимизационных алгоритмов (Python)",
+  "salary": [
+    "до",
+    400000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/111262109?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15743402ab02dbf64cb0"
+  },
+  "name": "Team Lead в Transport Backend",
+  "salary": "Зарплата не указана",
+  "url": "https://hh.ru/vacancy/97794055?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=614262&utm_local_campaign=995291&utm_content=651236&utm_vacancy=97794055"
+},
+{
+  "_id": {
+    "$oid": "673e15743402ab02dbf64cb1"
+  },
+  "name": "Разработчик на Python",
+  "salary": [
+    "от",
+    70000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/90310055?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15753402ab02dbf64cb2"
+  },
+  "name": "Python-разработчик систем сбора",
+  "salary": [
+    "от",
+    100000,
+    "до",
+    150000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/72687495?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "673e15753402ab02dbf64cb3"
+  },
+  "name": "Python-разработчик",
+  "salary": [
+    "от",
+    50000,
+    "руб",
+    "на руки"
+  ],
+  "url": "https://hh.ru/vacancy/111157153?query=python&hhtmFrom=vacancy_search_list"
+}]
